@@ -3,3 +3,5 @@ def func(n):
 
 n = 5
 res = func(n)
+
+print(res)
